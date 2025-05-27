@@ -1,5 +1,4 @@
-# 💬 ChatGPT Clone (Vanilla JavaScript + OpenAI API)
-
+# 💬 ChatAI
 A lightweight ChatGPT clone built using Vanilla JavaScript and the OpenAI API. This project demonstrates how to create a conversational chatbot interface that communicates with OpenAI's models for generating intelligent responses.
 
 ---
