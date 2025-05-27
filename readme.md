@@ -20,10 +20,10 @@ A lightweight ChatGPT clone built using Vanilla JavaScript and the OpenAI API. T
 ![Chat Interface](/img/1.png)
 
 ###  AI Response in Action
-![AI Response](/img/2.png)
+![AI Response](/img/3.png)
 
 ###  Genrate Resposne using multiple models
-![models](/img/3.png)
+![models](/img/2.png)
 
 ###  Save Coversataion
 ![Conversation](/img/4.png)
